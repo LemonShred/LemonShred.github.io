@@ -1,1 +1,28 @@
-
+h1 {
+    color: #ffc907;
+    background-color: #2e8b57;
+    text-align: center;
+}
+h2 {
+    color:#ffc907;
+}
+img{
+    
+    width:500px; height:550px
+    border-style: solid;
+    border: 5px solid #2e8b57;
+    display:block;
+    
+}
+body{
+    background-color: #1ca1de;
+}
+h4{
+    color:white;
+}
+h3{
+    color: #ffc907;
+}
+ul{
+    color: #ffffff;
+}
