@@ -1,17 +1,17 @@
 h1{
     text-align: center;
     background-color: #2e8b57;
-    color: #ffc907;
+    color: #c850a0;
 }
 h2{
     background-color: #2e8b57;
-    color: #ffc907;
+    color: #c850a0;
     text-align: center;
 }
 body{
     line-space: 3;
     background-color: #006400;
-    color: #ffc907;
+    color: #c850a0;
 }
 img{
     
@@ -21,6 +21,6 @@ img{
     
 }
 a{
-    background-color: #ffc907;
+    background-color: #c850a0;;
     color: #06402b;
 }
